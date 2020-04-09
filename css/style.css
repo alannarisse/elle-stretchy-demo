@@ -1,0 +1,46 @@
+header, main {
+	width: 80%;
+	margin: auto;
+}
+header {
+	background-color: pink;
+	padding: 20px;
+	margin-bottom: 160px;
+}
+main {
+	position: relative;
+}
+.img-div {
+	width: 80%;
+	margin: auto;
+}
+
+img {width: 100%;}
+
+
+.one, .two, .three {
+	background-color: aqua;
+	padding: 16px;
+	width: 300px;
+	position: absolute;
+}
+
+.one {
+	top: -100px;
+}
+
+.two {
+	right: 0;
+	top: 40vh;
+}
+
+.three {
+	bottom: -60px;
+}
+
+footer {
+	margin-top: 80px;
+	background-color: chartreuse;
+	padding: 20px;
+
+}
